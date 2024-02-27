@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello and welcome! \n");
+        Persona p = new Persona("Juanpa Quesada", 20, 208440370);
     }
 }
